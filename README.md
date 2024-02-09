@@ -1,10 +1,12 @@
 # Accordion
 Accordion is a hidden description of a topic, or question, very common in website FAQs. Every time that an item is selected, the content is displayed and the arrow change the color. The unselected items must hide the content and set gray color for the arrow.
-<hr>
 
 ## Desktop Overview 🖳
 
 <img src="assets/desktop-version.gif" alt="accordion">
+
+## Link
+- [Accordion - GitHub Pages](https://Antonio-Savio.github.io/accordion/)
 
 ## Languages used 👨‍💻
 - HTML
